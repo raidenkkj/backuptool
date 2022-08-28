@@ -1,4 +1,4 @@
-# v1.0.1 - 28.08.22
+# v1.1.0-alpha - 28.08.22
 * Added backup for persist img
 * Added backup for recovery img
 * Option to remove all backup directories
